@@ -1,0 +1,8 @@
+prefix=/home/akash/Documents/tp_ros/install
+
+Name: marker_visualizer
+Description: Description of marker_visualizer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/akash/Documents/tp_ros/devel/.private/catkin_tools_prebuild/local_setup.sh

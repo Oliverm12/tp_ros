@@ -1,0 +1,5 @@
+marker_visualizer
+/home/akash/Documents/tp_ros/devel/.private/marker_visualizer/cmake.lock /home/akash/Documents/tp_ros/devel/./cmake.lock
+/home/akash/Documents/tp_ros/devel/.private/marker_visualizer/lib/pkgconfig/marker_visualizer.pc /home/akash/Documents/tp_ros/devel/lib/pkgconfig/marker_visualizer.pc
+/home/akash/Documents/tp_ros/devel/.private/marker_visualizer/share/marker_visualizer/cmake/marker_visualizerConfig.cmake /home/akash/Documents/tp_ros/devel/share/marker_visualizer/cmake/marker_visualizerConfig.cmake
+/home/akash/Documents/tp_ros/devel/.private/marker_visualizer/share/marker_visualizer/cmake/marker_visualizerConfig-version.cmake /home/akash/Documents/tp_ros/devel/share/marker_visualizer/cmake/marker_visualizerConfig-version.cmake

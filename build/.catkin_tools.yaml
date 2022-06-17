@@ -1,0 +1,6 @@
+devel_space: /home/akash/Documents/tp_ros/devel
+install: false
+install_space: /home/akash/Documents/tp_ros/install
+profile: default
+source_space: /home/akash/Documents/tp_ros/src
+workspace: /home/akash/Documents/tp_ros

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/akash/Documents/tp_ros/devel/.private/marker_visualizer/setup.sh
